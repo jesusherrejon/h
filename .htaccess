@@ -133,3 +133,4 @@ Header set Cache-Control "max-age=2592000, public"
   </IfModule> 
   FileETag None 
 </IfModule>
+Options –Indexes
